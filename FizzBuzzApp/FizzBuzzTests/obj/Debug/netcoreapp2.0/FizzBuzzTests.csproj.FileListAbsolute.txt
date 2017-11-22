@@ -1,0 +1,16 @@
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzTests.deps.json
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzTests.runtimeconfig.json
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzTests.runtimeconfig.dev.json
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzTests.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzTests.pdb
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzLib.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\bin\Debug\netcoreapp2.0\FizzBuzzLib.pdb
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.AssemblyInfo.cs
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzTests\obj\Debug\netcoreapp2.0\FizzBuzzTests.pdb

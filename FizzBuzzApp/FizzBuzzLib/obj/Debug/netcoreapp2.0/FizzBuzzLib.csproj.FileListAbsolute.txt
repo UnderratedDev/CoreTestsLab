@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.deps.json
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.pdb
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.AssemblyInfo.cs
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.dll
+\\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.pdb
