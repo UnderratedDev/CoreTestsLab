@@ -5631,7 +5631,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yudhvirraj\\.nuget\\packages\\": {},
+    "C:\\Users\\a00957203\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5640,17 +5640,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectUniqueName": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "projectName": "FizzBuzzTests",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzTests\\FizzBuzzTests.csproj",
-      "packagesPath": "C:\\Users\\yudhvirraj\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzTests\\obj\\",
+      "projectPath": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "packagesPath": "C:\\Users\\a00957203\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yudhvirraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\a00957203\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5663,8 +5663,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj"
+            "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj": {
+              "projectPath": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj"
             }
           }
         }
@@ -5684,7 +5684,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "xunit": {

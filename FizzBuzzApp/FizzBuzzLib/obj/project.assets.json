@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yudhvirraj\\.nuget\\packages\\": {},
+    "C:\\Users\\a00957203\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj",
+      "projectUniqueName": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj",
       "projectName": "FizzBuzzLib",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj",
-      "packagesPath": "C:\\Users\\yudhvirraj\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\FizzBuzzApp\\FizzBuzzLib\\obj\\",
+      "projectPath": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzLib\\FizzBuzzLib.csproj",
+      "packagesPath": "C:\\Users\\a00957203\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a00957203\\Desktop\\CoreTestsLab\\FizzBuzzApp\\FizzBuzzLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yudhvirraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\a00957203\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -710,7 +710,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

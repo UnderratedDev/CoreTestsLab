@@ -7,3 +7,12 @@
 \\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.AssemblyInfo.cs
 \\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.dll
 \\Mac\Home\Downloads\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.pdb
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.deps.json
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.dll
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\bin\Debug\netcoreapp2.0\FizzBuzzLib.pdb
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.csprojResolveAssemblyReference.cache
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.csproj.CoreCompileInputs.cache
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.AssemblyInfoInputs.cache
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.AssemblyInfo.cs
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.dll
+C:\Users\a00957203\Desktop\CoreTestsLab\FizzBuzzApp\FizzBuzzLib\obj\Debug\netcoreapp2.0\FizzBuzzLib.pdb
